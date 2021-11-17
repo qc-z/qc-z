@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 
 ### HelloWord 👋
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+- 🔭 低级前端工程师
+- :orange_book: [掘金](https://juejin.cn/user/3395741617754429)
