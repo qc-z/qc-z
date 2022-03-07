@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ### HelloWord 👋
 
-- 🔭 低级前端工程师
+- 🔭 前端工程师
 - :orange_book: [掘金](https://juejin.cn/user/3395741617754429)
